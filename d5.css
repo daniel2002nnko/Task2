@@ -1,0 +1,62 @@
+.form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+  border: 1px solid black;
+  height: 1000px;
+  width: 600px;
+  background-color: white;
+  border-radius: 10px;
+  border-color: white;
+  margin-left: 1%;
+}
+body{
+  background-color: whitesmoke;
+}
+form{
+  margin-left: 0%;
+}
+input{
+  width: 530px;
+  background-color: whitesmoke;
+  border: 10px solid whitesmoke;
+  border-radius: 5px;
+}
+button{
+  background-color: rgba(6, 241, 6, 0.918);
+  border: solid rgba(6, 241, 6, 0.918);
+  border-radius: 5px;
+}
+b{
+  font-size: 30px;
+}
+.button{
+  background-color: whitesmoke;
+}
+.daud{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+  border: 1px solid black;
+  height: 850px;
+  width: 600px;
+  background-color: white;
+  border-radius: 10px;
+  border-color: white;
+  margin-left: 30%;
+  margin-top: -150px; 
+}
+.up{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -50%;
+  font-size: 30px;
+}
+img{
+  margin-right: 20px;
+}

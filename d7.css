@@ -1,0 +1,35 @@
+.wrapper 
+{ display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+  border: 1px solid black;
+  height: 600px;
+  width: 500px;
+  background-color: white;
+  border-radius: 10px;
+  border-color: white;
+  margin-left: 30%;
+ }
+ body{
+  background-color: whitesmoke;
+ }
+ .form{
+  border-bottom: 1px solid rgb(28, 129, 28);
+  width: 500px;
+  background-color: rgb(13, 122, 13);
+  height: 65px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-bottom: px;
+ }
+ input, textarea{
+  margin-left: 30px;
+ }
+ textarea{
+  margin-bottom: 100px;
+ }
+ .label{
+  padding: 70px;
+ }

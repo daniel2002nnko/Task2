@@ -1,0 +1,31 @@
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+  border: 1px solid black;
+  height: 200px;
+  width: 350px;
+  background-color: whitesmoke;
+  border-radius: 15px;
+  border-color: whitesmoke;
+  margin-left: 35%;
+  box-shadow: 100px;
+}
+body{
+  background-color: white;
+}
+input{
+  width: 290px;
+}
+button{
+  width: 200px;
+  background-color: lightblue;
+  border: 1px solid lightblue;
+  height: 25px;
+}
+input:focus{
+  border: 1px solid rgb(27, 27, 156);
+  outline: none;
+}

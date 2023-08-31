@@ -1,0 +1,99 @@
+.form2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+  border: 1px solid black;
+  height: 450px;
+  width: 350px;
+  background-color: white;
+  border-radius: 15px;
+  border-color: white;
+  margin-left: 35%;
+}
+/* input:focus{
+  border: 1px solid rgb(87, 87, 105);
+  outline: none;
+} */
+
+body{
+  background-color: whitesmoke;
+}
+b{
+  font-size: 25px;
+  margin-top: 10px; 
+}
+.sign{
+  margin-bottom: 20px;
+}
+a:link{
+  text-decoration: none;
+}
+input{
+  border-radius: 100px;
+  width: 250px;
+  height: 30px;
+  background-color: whitesmoke;
+  border: 1px solid white;
+}
+button{
+  border-radius: 100px;
+  width: 100px;
+}
+.first{
+  background-color: blue;
+  border: 1px solid blue;
+  height: 30px;
+  color: white;
+}
+/* button.second{
+  width: 100px;
+} */
+.second{
+  width: 300px;
+  height: 30px;
+  background-color: white;
+  border: 1px solid;
+}
+.third{
+  width: 300px;
+  height: 30px;
+  background-color: white;
+  border: 1px solid;
+}
+.fourth{
+  width: 300px;
+  height: 30px;
+  background-color: white;
+  border: 1px solid;
+}
+.form3{
+  width: 120px;
+  height: 1px;
+  border: solid 1px black;
+  background-color: black;
+
+
+  
+}
+.form4{
+  
+  width: 120px;
+  height: 1px;
+  border: solid 1px black;
+  background-color: black;
+}
+hr{
+  position: relative;
+}
+
+.oor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.or{
+  margin-left: 10px;
+  margin-right: 10px;
+}
